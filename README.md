@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaushikwagh
-- 👀 I’m Security | Software Engineer
+- 👀 I’m Software Engineer
 - 🌱 I’m currently Developer
 - 📫 How to reach me (https://www.linkedin.com/in/kaushik-wagh-a64704228/)
 
