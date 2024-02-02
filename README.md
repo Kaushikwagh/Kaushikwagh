@@ -70,4 +70,122 @@
 Kaushikwagh/Kaushikwagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 📊 KAUSHIK 
+
+[[Portfolio](https://kaushikwagh.dorik.io/)]
+
+<table>
+  
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">Devloper Profile @Kaushik</a></h3>
+    </th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
+        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
+        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+ 
+  <tr>
+        <td  align="center">
+        <details open><summary>Graphs</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
+        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
+        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <details open><summary>Kaushik icons</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
+        <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
+        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img></details>
+        <details><summary>By number of contributions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img></details>
+        <details><summary>Created on a user's repositories</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img></details>
+        <details><summary>Created by a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Related to a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.followers.svg" alt=""></img></details>
+        <details><summary>Related to a repository</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.repository.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsorships.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>GitHub sponsors card</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.svg" alt=""></img></details>
+        <details><summary>GitHub sponsors full introduction</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.full.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+        <td  align="center">
+        <details open><summary>Featured</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg" alt=""></img></details>
+        <details><summary>Pinned</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.pinned.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.discussions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+</table>
+ 
+
+
 
