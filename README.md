@@ -1,4 +1,4 @@
-<h3 align="left">- Hi 👋! My name is Kaushik Wagh<br>- 👀 I’m Software Developer</h3>
+<h3 align="left">- Hi 👋! My name is Kaushik Wagh<br>- 👀 I’m Site Reliability Engineer</h3>
 
 ###
 
